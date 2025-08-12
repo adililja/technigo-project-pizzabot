@@ -6,4 +6,4 @@ I followed the provided instructions and tried to search for clean code practice
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://hubbypizza.netlify.app/
