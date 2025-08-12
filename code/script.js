@@ -61,7 +61,6 @@ if (subPizza < 2) {
 
 // Step 4 - Age
 const age = Number(prompt('Is the meal for a child or an adult?', 'age'))
-let confirmation = undefined
 
 if (age >= 18) {
   alert('Adult portion ordered! This will cost you $22')
@@ -69,7 +68,8 @@ if (age >= 18) {
   alert('Oh it is for a child? Well then you get the meal for free!!')
 }
 
-confirmation = Number(prompt('Is this what you want to order? Type a number to confirm\n1 - yes\n2 - no'))
+// Step 5 - Order confirmation
+const confirmation = Number(prompt('Is this what you want to order? Type a number to confirm\n1 - yes\n2 - no'))
 
 if (confirmation === 1) {
   alert('Lovely, your meal will be coming up in a minute 🤤')
@@ -78,11 +78,3 @@ if (confirmation === 1) {
 } else {
   alert('Invalid choice. Please select 1 for Yes or 2 for No')
 }
-
-
-
-
-
-
-// Step 5 - Order confirmation
-// Your code goes here

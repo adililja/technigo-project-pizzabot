@@ -1,10 +1,8 @@
 # Pizzabot
 
-Replace this readme with your own information about the project. You can include things like:
+The assignment is about using JavaScript to make an order in a mock-online-pizzeria. The customer should be able to order a meal and specify it. The customer will also be able to order for a child or adult and finaly confirm their order.
 
--   Brief description of the assignment
--   How you approached the task, what tools and techniques you used, and how you planned it
--   If you had more time, what would be next?
+I followed the provided instructions and tried to search for clean code practices.
 
 ## View it live
 
